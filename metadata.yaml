@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31638
     wikipedia: https://fi.wikipedia.org/wiki/Akseli_Rauanheimo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25881#Kohtaloonsa-kompastunut
 gutenberg_issued: '2008-06-23'
 gutenberg_type: Text
 identifiers:
